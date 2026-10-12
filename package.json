@@ -1,0 +1,13 @@
+{
+  "name": "flowix",
+  "version": "0.2.0",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/*.test.cjs",
+    "check": "node scripts/check.mjs",
+    "icons": "node scripts/icons.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
