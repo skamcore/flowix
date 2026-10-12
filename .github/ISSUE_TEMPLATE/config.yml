@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: FAQ / Диагностика
+    url: https://github.com/skamcore/flowix/blob/main/docs/troubleshooting.md
+    about: Installation problems, diagnostic states and common questions / Частые вопросы
