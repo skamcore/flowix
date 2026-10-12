@@ -13,6 +13,8 @@
 
 flowix is an independent, experimental Chrome extension for Google Flow. It locally adjusts a regional-availability flag in a specific configuration response, supports Fetch and XMLHttpRequest, and offers a Russian/English popup with downloadable diagnostics.
 
+**Personally tested by the author:** both the previous build and **0.2.0-beta.1** work in their Chrome/VPN setup. Confirmed on October 12, 2026.
+
 ## Features
 
 - One enable switch, a language button and a diagnostic download.
@@ -36,7 +38,7 @@ For a source checkout, select `extension/`. To update, replace files in the same
 
 **Enabled means the extension is enabled, not that Google has granted access.** flowix does not change your IP, account country, subscription, credits or server-side eligibility. Access and generation are not guaranteed. The configuration format may change.
 
-Version **0.2.0-beta.1** is experimental. Automated tests use synthetic responses and browser API mocks; authenticated end-to-end access for this build has not been verified. Chrome Web Store publication is pending. flowix is not affiliated with or endorsed by Google.
+Version **0.2.0-beta.1** is experimental. Automated tests use synthetic responses and browser API mocks; the project author personally tested both the previous build and **0.2.0-beta.1**, confirming that Google Flow works in their Chrome/VPN setup on October 12, 2026. Chrome Web Store publication is pending. flowix is not affiliated with or endorsed by Google.
 
 ## Privacy
 
